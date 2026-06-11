@@ -1,8 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-11T22:16:14.399Z",
+  "updatedAt": "2026-06-12T00:00:00Z",
   "entries": [],
-  "schedule": {
-    "9-17": "ram-17-badr"
-  }
+  "schedule": {}
 }
