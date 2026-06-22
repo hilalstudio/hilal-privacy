@@ -1,8 +1,20 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-21T22:39:10.101Z",
-  "entries": [],
+  "updatedAt": "2026-06-22T12:31:29.083Z",
+  "entries": [
+    {
+      "id": "hadith-0-0-jami-at-tirmidhi-1162",
+      "month": 0,
+      "day": 0,
+      "kind": "hadith",
+      "bodyEn": "The most complete of the believers in faith is the one with the best character among them. And the best of you are those who are best to your women.",
+      "bodyAr": "أَكْمَلُ الْمُؤْمِنِينَ إِيمَانًا أَحْسَنُهُمْ خُلُقًا وَخِيَارُكُمْ خِيَارُكُمْ لِنِسَائِهِمْ خُلُقًا",
+      "source": "Jami' at-Tirmidhi 1162",
+      "attested": false,
+      "floating": true
+    }
+  ],
   "schedule": {
-    "1-7": "ayah-1-22-qur-an-2-152"
+    "1-7": "hadith-0-0-jami-at-tirmidhi-1162"
   }
 }
