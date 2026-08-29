@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": "2026-08-29T14:04:19.303Z",
+ "updatedAt": "2026-08-29T14:08:39.566Z",
  "entries": [
   {
    "id": "hadith-0-0-jami-at-tirmidhi-1162",
@@ -14,21 +14,19 @@
    "floating": true
   },
   {
-   "id": "dua-3-16-adab-al-mufrad-716",
+   "id": "hadith-3-16-adab-al-mufrad-716",
    "month": 3,
    "day": 16,
-   "kind": "dua",
-   "bodyEn": "“O Allah, I seek refuge in You lest I associate anything with You while I know it, and I seek Your forgiveness for what I do not know.”",
-   "bodyAr": "اللَّهُمَّ إِنِّي أَعُوذُ بِكَ أَنْ أُشْرِكَ بِكَ وَأَنَا أَعْلَمُ، وَأَسْتَغْفِرُكَ لِمَا لا أَعْلَمُ",
+   "kind": "hadith",
+   "bodyEn": "Ma'qil bin Yasar (ra) said that he came to the Prophet (ﷺ) with Abu Bakr (ra). He said, “O Abu Bakr, polytheism enters your people more quietly (secretly) than the movement of ants.” Abu Bakr asked, “Is there a kind of polytheism besides associating anything with Allah?” The Prophet (ﷺ) said, “By Him who has my life in His power, polytheism is more concealed than the movement of ants. Shall I not teach you something which, if you say it, will eliminate minor or major (polytheism)?” He then said, “Say: O Allah! I seek refuge in You lest I associate anything with You while I know it, and I seek Your forgiveness for what I do not know.”",
+   "bodyAr": "انْطَلَقْتُ مَعَ أَبِي بَكْرٍ الصِّدِّيقِ رَضِيَ اللَّهُ عَنْهُ إِلَى النَّبِيِّ صلى الله عليه وسلم، فَقَالَ: يَا أَبَا بَكْرٍ، لَلشِّرْكُ فِيكُمْ أَخْفَى مِنْ دَبِيبِ النَّمْلِ، فَقَالَ أَبُو بَكْرٍ: وَهَلِ الشِّرْكُ إِلاَّ مَنْ جَعَلَ مَعَ اللهِ إِلَهًا آخَرَ؟ فَقَالَ النَّبِيُّ صلى الله عليه وسلم: وَالَّذِي نَفْسِي بِيَدِهِ، لَلشِّرْكُ أَخْفَى مِنْ دَبِيبِ النَّمْلِ، أَلاَ أَدُلُّكَ عَلَى شَيْءٍ إِذَا قُلْتَهُ ذَهَبَ عَنْكَ قَلِيلُهُ وَكَثِيرُهُ؟ قَالَ: قُلِ: اللَّهُمَّ إِنِّي أَعُوذُ بِكَ أَنْ أُشْرِكَ بِكَ وَأَنَا أَعْلَمُ، وَأَسْتَغْفِرُكَ لِمَا لا أَعْلَمُ.",
    "source": "Al-Adab Al-Mufrad 716",
-   "tafsir": "The Prophet ﷺ taught this to Abū Bakr after telling him that shirk moves among people more hiddenly than the creeping of ants — a daily refuge from its small, unnoticed forms.",
-   "tafsirSource": "Al-Adab Al-Mufrad 716",
    "attested": false,
    "floating": false
   }
  ],
  "schedule": {
   "1-7": "hadith-0-0-jami-at-tirmidhi-1162",
-  "3-16": "dua-3-16-adab-al-mufrad-716"
+  "3-16": "hadith-3-16-adab-al-mufrad-716"
  }
 }
