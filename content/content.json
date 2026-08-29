@@ -1,20 +1,34 @@
 {
-  "version": 1,
-  "updatedAt": "2026-06-22T12:31:29.083Z",
-  "entries": [
-    {
-      "id": "hadith-0-0-jami-at-tirmidhi-1162",
-      "month": 0,
-      "day": 0,
-      "kind": "hadith",
-      "bodyEn": "The most complete of the believers in faith is the one with the best character among them. And the best of you are those who are best to your women.",
-      "bodyAr": "أَكْمَلُ الْمُؤْمِنِينَ إِيمَانًا أَحْسَنُهُمْ خُلُقًا وَخِيَارُكُمْ خِيَارُكُمْ لِنِسَائِهِمْ خُلُقًا",
-      "source": "Jami' at-Tirmidhi 1162",
-      "attested": false,
-      "floating": true
-    }
-  ],
-  "schedule": {
-    "1-7": "hadith-0-0-jami-at-tirmidhi-1162"
+ "version": 1,
+ "updatedAt": "2026-08-29T14:04:19.303Z",
+ "entries": [
+  {
+   "id": "hadith-0-0-jami-at-tirmidhi-1162",
+   "month": 0,
+   "day": 0,
+   "kind": "hadith",
+   "bodyEn": "The most complete of the believers in faith is the one with the best character among them. And the best of you are those who are best to your women.",
+   "bodyAr": "أَكْمَلُ الْمُؤْمِنِينَ إِيمَانًا أَحْسَنُهُمْ خُلُقًا وَخِيَارُكُمْ خِيَارُكُمْ لِنِسَائِهِمْ خُلُقًا",
+   "source": "Jami' at-Tirmidhi 1162",
+   "attested": false,
+   "floating": true
+  },
+  {
+   "id": "dua-3-16-adab-al-mufrad-716",
+   "month": 3,
+   "day": 16,
+   "kind": "dua",
+   "bodyEn": "“O Allah, I seek refuge in You lest I associate anything with You while I know it, and I seek Your forgiveness for what I do not know.”",
+   "bodyAr": "اللَّهُمَّ إِنِّي أَعُوذُ بِكَ أَنْ أُشْرِكَ بِكَ وَأَنَا أَعْلَمُ، وَأَسْتَغْفِرُكَ لِمَا لا أَعْلَمُ",
+   "source": "Al-Adab Al-Mufrad 716",
+   "tafsir": "The Prophet ﷺ taught this to Abū Bakr after telling him that shirk moves among people more hiddenly than the creeping of ants — a daily refuge from its small, unnoticed forms.",
+   "tafsirSource": "Al-Adab Al-Mufrad 716",
+   "attested": false,
+   "floating": false
   }
+ ],
+ "schedule": {
+  "1-7": "hadith-0-0-jami-at-tirmidhi-1162",
+  "3-16": "dua-3-16-adab-al-mufrad-716"
+ }
 }
